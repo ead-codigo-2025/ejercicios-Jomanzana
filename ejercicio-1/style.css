@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(76, 40, 130);
+  font-family: "Alegreya Sans";
+  margin-top: 5%;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+h1 {
+color: rgb(255, 0, 128);
+}
+h2 {
+color: rgb(255, 255, 255);
+}
+h3 {
+color: rgb(191, 255, 0);
+}
+p {
+ color: rgb(255, 255, 255);
+}
+cite {
+ color: rgb(255, 255, 255);
+}
+.box-blue {
+    margin:0 0 25px;
+    overflow:hidden;
+    padding:20px;
+    background-color:#1414b8;
+    border:1px solid #1414b8;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
